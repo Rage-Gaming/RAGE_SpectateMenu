@@ -53,12 +53,17 @@ Config.AllowedGroups = {
 ```
 
 ## Screenshots
+- **Main Menu**
+<img src = ".github/images/mainMenu.png">
 
-<img src = ".github/images/Screenshot_20230406-113644_Discord.png">
+- **Spectate**
+<img src = ".github/images/InSpec.png">
 
-<img src = ".github/images/Screenshot_20230406-113719_Discord.png">
+- **Player kick Confirmation**
+<img src = ".github/images/KickConfirmation.png">
 
-<img src = ".github/images/image.png">
+- **Notification**
+<img src = ".github/images/Notification.png">
 
 
 ## Contact
