@@ -72,4 +72,4 @@ If you have any questions or need help, feel free to contact me on Discord: [Joi
 
 ## License
 
-This project is licensed under the LGPL License. See the [LICENCE](LICENCE). file for details.
+This project is licensed under the LGPL License. See the [LICENCE](https://github.com/Rage-Gaming/RAGE_SpectateMenu/blob/main/LICENSE). file for details.
