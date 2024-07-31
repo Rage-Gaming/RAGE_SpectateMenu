@@ -18,13 +18,13 @@ Welcome to the RAGE_SpectateMenu repository! This script provides a streamlined 
 ## Installation
 
 1. Clone this repository to your FiveM server resources directory:
-    ```bash
+    ```git
     git clone https://github.com/Rage-Gaming/RAGE_SpectateMenu.git
     ```
 
 2. Add the script to your server configuration file (server.cfg):
 
-    ```svg
+    ```cfg
     ensure RAGE_SpectateMenu
     ```
 3. Configure the script by editing the config.lua file to suit your requirements.
