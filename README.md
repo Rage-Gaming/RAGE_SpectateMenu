@@ -73,3 +73,7 @@ If you have any questions or need help, feel free to contact me on Discord: [Joi
 ## License
 
 This project is licensed under the LGPL License. See the [LICENCE](https://github.com/Rage-Gaming/RAGE_SpectateMenu/blob/main/LICENSE). file for details.
+
+## Copyright ©
+
+<a href="//www.dmca.com/Protection/Status.aspx?ID=7b1b02ab-7031-4a8b-ad7e-78c3ae2fce62" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=7b1b02ab-7031-4a8b-ad7e-78c3ae2fce62"  alt="DMCA.com Protection Status" /></a>
