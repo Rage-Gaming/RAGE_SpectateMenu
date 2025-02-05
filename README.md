@@ -68,8 +68,8 @@ Config.AllowedGroups = {
 
 ## Contact
 
-If you have any questions or need help, feel free to contact me on Discord: [Join Now](https://discord.gg/bDaYd2P9Vu).
-
+If you have any questions or need help, feel free to contact me on Discord: [Join Now](https://discord.gg/8nJZPywdnC).
+1
 ## License
 
 This project is licensed under the LGPL License. See the [LICENCE](https://github.com/Rage-Gaming/RAGE_SpectateMenu/blob/main/LICENSE). file for details.
